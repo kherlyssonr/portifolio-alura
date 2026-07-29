@@ -1,4 +1,4 @@
-# Portfólio Pessoal — Kherlysson Ryann
+# Portfólio Alura — Kherlysson Ryann
 
 ![Prévia do portfólio](./assets/portfolio-preview.png)
 
